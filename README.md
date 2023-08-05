@@ -1,4 +1,4 @@
-# Domains
+# Domain Price
 
 All top and some second level domains with prices.
 
