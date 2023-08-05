@@ -1,6 +1,8 @@
+import 'simple_types.dart';
+
 /// The price defined in integer euros per 1 year.
 /// \source https://domains.google.com/express/search?searchTerm=mykind456932&tab=1&sort=0
-const EndingPriceEuro endingsPriceEuro = <String, int>{
+const EndingsPriceEuro endingsPriceEuro = <String, int>{
   'academy': 29,
   'accountant': 29,
   'accountants': 114,
@@ -366,5 +368,3 @@ const EndingPriceEuro endingsPriceEuro = <String, int>{
   'zip': 14,
   'zone': 29,
 };
-
-typedef EndingPriceEuro = Map<String, int>;
