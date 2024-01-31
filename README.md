@@ -1,7 +1,30 @@
 # Domain Price
 
-All top and some second level domains with prices.
+![Cover - Domain Price](https://raw.githubusercontent.com/signmotion/domain_price/master/images/cover.webp)
+
+Package for appraising all top and some second-level domains.
+
+## Usage
+
+```dart
+const dp = DomainPrice('mykid.academy');
+print('Price for `${dp.domain}` is ${dp.endingPriceEuro} euro.');
+```
+
+Output:
+
+```sh
+Price for `mykid.academy` is 29 euro.
+```
 
 ## Sources
 
-- https://domains.google.com/express/search?searchTerm=mykind456932&tab=1&sort=0 -> https://docs.google.com/spreadsheets/d/12v_r3ntwXvEAPXaWXm57Po_h8JmXnwx5vuzXeMSl7CM/edit#gid=0
+- <https://domains.google.com> -> <https://docs.google.com/spreadsheets/d/12v_r3ntwXvEAPXaWXm57Po_h8JmXnwx5vuzXeMSl7CM>
+
+## License
+
+[MIT](LICENSE)
+
+## TODO
+
+- Example with own price table.
