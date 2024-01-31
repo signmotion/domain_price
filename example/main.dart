@@ -1,3 +1,5 @@
+// ignore_for_file: avoid_print
+
 import 'package:domain_price/domain_price.dart';
 
 void main() {
