@@ -1,8 +1,8 @@
 import 'simple_types.dart';
 
 /// The price defined in integer euros per 1 year.
-/// \source https://domains.google.com/express/search?searchTerm=mykind456932&tab=1&sort=0
-const EndingsPriceEuro endingsPriceEuro = <String, int>{
+/// \source https://domains.google.com -> https://docs.google.com/spreadsheets/d/12v_r3ntwXvEAPXaWXm57Po_h8JmXnwx5vuzXeMSl7CM
+const EndingsPriceEuro endingsPriceEuro = {
   'academy': 29,
   'accountant': 29,
   'accountants': 114,
