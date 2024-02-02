@@ -1,7 +1,8 @@
 name: domain_price
-description: Calculate an estimated price for domain name.
+description: >-
+  Calculate an estimated price for domain name.
+  Appraising all top and some second-level domains.
 repository: https://github.com/signmotion/domain_price
-
 topics:
   - domain
   - price
