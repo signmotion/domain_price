@@ -1,25 +1,25 @@
 # Domain Price
 
+![SDK version](https://badgen.net/pub/sdk-version/domain_price?style=for-the-badge)
+![Supported platforms](https://badgen.net/pub/flutter-platform/domain_price?style=for-the-badge)
+![Supported SDKs](https://badgen.net/pub/dart-platform/domain_price?style=for-the-badge)
+
 ![Cover - Domain Price](https://raw.githubusercontent.com/signmotion/domain_price/master/images/cover.webp)
 
-[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Pub Package](https://img.shields.io/pub/v/domain_price.svg?logo=dart&logoColor=00b9fc&color=blue)](https://pub.dartlang.org/packages/domain_price)
-[![Code Size](https://img.shields.io/github/languages/code-size/signmotion/domain_price?logo=github&logoColor=white)](https://github.com/signmotion/domain_price)
-[![Publisher](https://img.shields.io/pub/publisher/domain_price)](https://pub.dev/publishers/syrokomskyi.com)
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Pub Package](https://img.shields.io/pub/v/domain_price.svg?logo=dart&logoColor=00b9fc&color=blue&style=for-the-badge)](https://pub.dartlang.org/packages/domain_price)
+[![Code Size](https://img.shields.io/github/languages/code-size/signmotion/domain_price?logo=github&logoColor=white&style=for-the-badge)](https://github.com/signmotion/domain_price)
+[![Publisher](https://img.shields.io/pub/publisher/domain_price?style=for-the-badge)](https://pub.dev/publishers/syrokomskyi.com)
 
-![SDK version](https://badgen.net/pub/sdk-version/domain_price)
-![Supported platforms](https://badgen.net/pub/flutter-platform/domain_price)
-![Supported SDKs](https://badgen.net/pub/dart-platform/domain_price)
-
-[![Build Status](https://img.shields.io/github/actions/workflow/status/signmotion/domain_price/dart-ci.yml?logo=github-actions&logoColor=white)](https://github.com/signmotion/domain_price/actions)
-[![Pull Requests](https://img.shields.io/github/issues-pr/signmotion/domain_price?logo=github&logoColor=white)](https://github.com/signmotion/domain_price/pulls)
-[![Issues](https://img.shields.io/github/issues/signmotion/domain_price?logo=github&logoColor=white)](https://github.com/signmotion/domain_price/issues)
-[![Pub Score](https://img.shields.io/pub/points/domain_price?logo=dart&logoColor=00b9fc)](https://pub.dev/packages/domain_price/score)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/signmotion/domain_price/dart-ci.yml?logo=github-actions&logoColor=white&style=for-the-badge)](https://github.com/signmotion/domain_price/actions)
+[![Pull Requests](https://img.shields.io/github/issues-pr/signmotion/domain_price?logo=github&logoColor=white&style=for-the-badge)](https://github.com/signmotion/domain_price/pulls)
+[![Issues](https://img.shields.io/github/issues/signmotion/domain_price?logo=github&logoColor=white&style=for-the-badge)](https://github.com/signmotion/domain_price/issues)
+[![Pub Score](https://img.shields.io/pub/points/domain_price?logo=dart&logoColor=00b9fc&style=for-the-badge)](https://pub.dev/packages/domain_price/score)
 
 The easy-to-use and [well-tested](https://github.com/signmotion/domain_price/tree/master/test) package for appraising all top and some second-level domains.
 Feel free to use it in your awesome project.
 
-[![CodeFactor](https://codefactor.io/repository/github/signmotion/domain_price/badge)](https://codefactor.io/repository/github/signmotion/domain_price)
+[![CodeFactor](https://codefactor.io/repository/github/signmotion/domain_price/badge?style=for-the-badge)](https://codefactor.io/repository/github/signmotion/domain_price)
 
 Share some ❤️ and star repo to support the project.
 
